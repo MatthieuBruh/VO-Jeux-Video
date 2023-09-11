@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="neo4j-java-driver-4.4.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/neo4j-java-driver-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactive-streams-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
